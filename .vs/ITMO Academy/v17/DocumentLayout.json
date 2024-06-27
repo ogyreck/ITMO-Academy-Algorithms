@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\ITMO-Academy-Algorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE31EAD1-4A24-4123-9E78-DA68E8AB0DF0}|ITMO Academy.csproj|d:\\git\\itmo-academy-algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE31EAD1-4A24-4123-9E78-DA68E8AB0DF0}|ITMO Academy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE31EAD1-4A24-4123-9E78-DA68E8AB0DF0}|ITMO Academy.csproj|d:\\git\\itmo-academy-algorithms\\itmo academy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE31EAD1-4A24-4123-9E78-DA68E8AB0DF0}|ITMO Academy.csproj|solutionrelative:itmo academy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE31EAD1-4A24-4123-9E78-DA68E8AB0DF0}|ITMO Academy.csproj|d:\\git\\itmo-academy-algorithms\\z-\u0444\u0443\u043D\u043A\u0446\u0438\u044F\\a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE31EAD1-4A24-4123-9E78-DA68E8AB0DF0}|ITMO Academy.csproj|solutionrelative:z-\u0444\u0443\u043D\u043A\u0446\u0438\u044F\\a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE31EAD1-4A24-4123-9E78-DA68E8AB0DF0}|ITMO Academy.csproj|d:\\git\\itmo-academy-algorithms\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE31EAD1-4A24-4123-9E78-DA68E8AB0DF0}|ITMO Academy.csproj|solutionrelative:helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE31EAD1-4A24-4123-9E78-DA68E8AB0DF0}|ITMO Academy.csproj|d:\\git\\itmo-academy-algorithms\\z-\u0444\u0443\u043D\u043A\u0446\u0438\u044F\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{BE31EAD1-4A24-4123-9E78-DA68E8AB0DF0}|ITMO Academy.csproj|solutionrelative:z-\u0444\u0443\u043D\u043A\u0446\u0438\u044F\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Git\\ITMO-Academy-Algorithms\\Z-\u0444\u0443\u043D\u043A\u0446\u0438\u044F\\README.md",
+              "RelativeDocumentMoniker": "Z-\u0444\u0443\u043D\u043A\u0446\u0438\u044F\\README.md",
+              "ToolTip": "D:\\Git\\ITMO-Academy-Algorithms\\Z-\u0444\u0443\u043D\u043A\u0446\u0438\u044F\\README.md",
+              "RelativeToolTip": "Z-\u0444\u0443\u043D\u043A\u0446\u0438\u044F\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-27T17:38:47.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\Git\\ITMO-Academy-Algorithms\\Helper.cs",
+              "RelativeDocumentMoniker": "Helper.cs",
+              "ToolTip": "D:\\Git\\ITMO-Academy-Algorithms\\Helper.cs",
+              "RelativeToolTip": "Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:36:26.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "A1.cs",
+              "DocumentMoniker": "D:\\Git\\ITMO-Academy-Algorithms\\Z-\u0444\u0443\u043D\u043A\u0446\u0438\u044F\\A1.cs",
+              "RelativeDocumentMoniker": "Z-\u0444\u0443\u043D\u043A\u0446\u0438\u044F\\A1.cs",
+              "ToolTip": "D:\\Git\\ITMO-Academy-Algorithms\\Z-\u0444\u0443\u043D\u043A\u0446\u0438\u044F\\A1.cs",
+              "RelativeToolTip": "Z-\u0444\u0443\u043D\u043A\u0446\u0438\u044F\\A1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:33:34.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITMO Academy",
+              "DocumentMoniker": "D:\\Git\\ITMO-Academy-Algorithms\\ITMO Academy.csproj",
+              "RelativeDocumentMoniker": "ITMO Academy.csproj",
+              "ToolTip": "D:\\Git\\ITMO-Academy-Algorithms\\ITMO Academy.csproj",
+              "RelativeToolTip": "ITMO Academy.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-27T17:31:25.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\ITMO-Academy-Algorithms\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Git\\ITMO-Academy-Algorithms\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:29:49.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

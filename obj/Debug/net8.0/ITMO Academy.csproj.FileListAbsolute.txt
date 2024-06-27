@@ -1,0 +1,15 @@
+D:\Git\ITMO-Academy-Algorithms\bin\Debug\net8.0\ITMO Academy.exe
+D:\Git\ITMO-Academy-Algorithms\bin\Debug\net8.0\ITMO Academy.deps.json
+D:\Git\ITMO-Academy-Algorithms\bin\Debug\net8.0\ITMO Academy.runtimeconfig.json
+D:\Git\ITMO-Academy-Algorithms\bin\Debug\net8.0\ITMO Academy.dll
+D:\Git\ITMO-Academy-Algorithms\bin\Debug\net8.0\ITMO Academy.pdb
+D:\Git\ITMO-Academy-Algorithms\obj\Debug\net8.0\ITMO Academy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\ITMO-Academy-Algorithms\obj\Debug\net8.0\ITMO Academy.AssemblyInfoInputs.cache
+D:\Git\ITMO-Academy-Algorithms\obj\Debug\net8.0\ITMO Academy.AssemblyInfo.cs
+D:\Git\ITMO-Academy-Algorithms\obj\Debug\net8.0\ITMO Academy.csproj.CoreCompileInputs.cache
+D:\Git\ITMO-Academy-Algorithms\obj\Debug\net8.0\ITMO Academy.sourcelink.json
+D:\Git\ITMO-Academy-Algorithms\obj\Debug\net8.0\ITMO Academy.dll
+D:\Git\ITMO-Academy-Algorithms\obj\Debug\net8.0\refint\ITMO Academy.dll
+D:\Git\ITMO-Academy-Algorithms\obj\Debug\net8.0\ITMO Academy.pdb
+D:\Git\ITMO-Academy-Algorithms\obj\Debug\net8.0\ITMO Academy.genruntimeconfig.cache
+D:\Git\ITMO-Academy-Algorithms\obj\Debug\net8.0\ref\ITMO Academy.dll

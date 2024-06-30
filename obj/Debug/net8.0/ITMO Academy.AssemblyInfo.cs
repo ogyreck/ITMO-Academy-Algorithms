@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITMO Academy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29cd26c1a1160cb3b90737b662ec4810765523ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2573d82bd2cb5beb459b2f8d23c2a2d76d138443")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITMO Academy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITMO Academy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

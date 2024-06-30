@@ -1,3 +1,4 @@
 ﻿using ITMO_Academy.Z_функция;
+using ITMO_Academy.Z_функция._2;
 
-C1.RunTask();
+A2.RunTask();
